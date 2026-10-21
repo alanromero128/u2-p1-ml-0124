@@ -5,3 +5,7 @@
 
 ## mas ejemplos de array "comparacion de 1,2 y 3 dimensiones"
 ![alt text](image-3.png)
+
+## Resultados
+
+![alt text](image-4.png)
